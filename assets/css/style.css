@@ -36,6 +36,18 @@ footer {
   font-size: 0.9rem;
 }
 
+.footer-socials svg {
+  width: 24px;   /* Consistent size */
+  height: 24px;
+  fill: #666;    /* Set the icon color */
+  transition: fill 0.2s ease;
+  vertical-align: middle;
+}
+
+.footer-socials a:hover svg {
+  fill: #0076df; /* Change color on hover */
+}
+
 .copyright {
   font-size: 0.8rem;
   color: #888;

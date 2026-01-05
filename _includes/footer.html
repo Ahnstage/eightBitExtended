@@ -1,7 +1,10 @@
 <footer>
   <div class="footer-socials">
     {% for link in site.data.socials %}
-      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>
+      <a href="{{ link.url }}" target="_blank" rel="noopener" aria-label="{{ link.name }}">
+        {% assign icon_path = "icons/" | append: link.name | downcase | append: ".svg" %}
+        {% include {{ icon_path }} %}
+      </a>
     {% endfor %}
   </div>
   <p class="copyright">
