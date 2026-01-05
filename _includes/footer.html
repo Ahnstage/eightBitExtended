@@ -1,0 +1,10 @@
+<footer>
+  <div class="footer-socials">
+    {% for link in site.data.socials %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>
+    {% endfor %}
+  </div>
+  <p class="copyright">
+    &copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.
+  </p>
+</footer>

@@ -18,3 +18,25 @@ a:hover { text-decoration: underline; }
   margin-right: 1.5rem; 
   color: #999; 
 }
+
+footer {
+  margin-top: 5rem;
+  padding: 2rem 0;
+  text-align: center;
+  border-top: 1px solid #eee; /* Subtle separator line */
+}
+
+.footer-socials {
+  margin-bottom: 1rem;
+}
+
+.footer-socials a {
+  margin: 0 0.75rem; /* Spacing between platforms */
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.copyright {
+  font-size: 0.8rem;
+  color: #888;
+}
