@@ -30,9 +30,13 @@ twitch_username: ahnstage
 linkedin_username: ahnstage
 # github_username:  ahnstage
 
+google_analytics: G-LJYBM1M33G
+
+
 # Build settings
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
