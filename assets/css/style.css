@@ -52,3 +52,52 @@ footer {
   font-size: 0.8rem;
   color: #888;
 }
+
+/* Header Styling*/
+.site-header {
+  display:flex;                   /*Activatges layout engine*/
+  justify-content: space-between;                   /* Pushes item to far edge*/
+  align-items: center;
+
+  width: 100%;               /* Ensures it spans the full page */
+  max-width: 1100px;         /* Match your page content width */
+  margin: 0 auto;            /* Centers the header on the screen */
+  padding: 1.5rem 0;                    /* Adds Breathing room to top and bottom */
+  border-bottom: 1px solid #eee; /* adds a subtle line*/
+}
+
+/* The Title (Left) */
+.site-title {
+  margin: 0;
+  line-height: 1;
+
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #333
+}
+
+/* The Menu (Right) */
+.site-nav {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.site-nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.site-nav a:hover {
+  color: #000;                    /* Darkens when you hover */
+}
+
+/* Image Centering */
+img {
+  display: block;
+  margin-left: auto;
+  Margin-right: auto;
+}

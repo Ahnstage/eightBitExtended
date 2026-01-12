@@ -8,10 +8,16 @@
     {% include google-analytics.html %}
   </head>
   <body>
-    <nav>
-      <a href="/"><strong>{{ site.title }}</strong></a>
-    </nav>
-
+    <header class="site-header">
+      <a class="site-title" href="/">{{ site.title }}</a>
+      
+      <nav class="site-nav">
+       <!--<a href="/work/">Work</a>-->
+       <a href="/about/">About</a>
+       <!--<a href="/contact/">Contact</a>-->
+       <!--<a href="/resources/">Resources</a>-->        
+      </nav>
+    </header>
     <main>
       {{ content }}
     </main>
