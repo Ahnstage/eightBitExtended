@@ -12,10 +12,13 @@ As I got older, I continued to ask inquisitive questions but the tone and respon
 
 It also hurt my feelings.
 
-I created this website for two reasons:
-1. to practice writing and static web development skills, and 
-2. to explore some of the more difficult questions with unsatisfactory answers.
+---
 
-While I am still curious about many things, the general focus of this blog will be about (but not limited to) photography, martial arts, and the development of the creative process.
+I created this website for three reasons:
+1. to practice writing,
+2. to practice static web development, and 
+3. to explore the difficult questions where I got unsatisfactory answers.
 
-If you're interested in my professional work, you can check out <a href="http://www.ahnstage.com/gallery" target="_blank">my portfolio here.</a>
+The scope of my curiousity is vast, however the general focus of this blog will be about (but not limited to) photography, martial arts, and the development of the creative process.
+
+If you're interested in my professional work, you can check out <a href="http://www.ahnstage.com/gallery" target="_blank">my portfolio here</a>.
