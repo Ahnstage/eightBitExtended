@@ -6,19 +6,12 @@ permalink: /about/
 
 ![Michael Ahn, 2025](/assets/images/aboutMePhoto.jpg)
 
-From a very young age, I was told, "You ask very good questions." As a child, this felt really validating and I learned a lot about the world. 
+I was caught in a guillotine choke at the 2017 IBJJF No Gi World Championships. I remember thinking how routine it would be to get out of this choke as I had done in practice so many times before. I would defend, wait for my opponent to tire, and begin my attack. 
 
-As I got older, I continued to ask inquisitive questions but the tone and response shifted. It went from "you ask good questions" to "you're being really annoying." This shift was a formative experience for me: it's when people stopped spoon-feeding me satisfactory answers to the harder problems of life. 
+Never have I been so wrong, so fast. 
 
-It also hurt my feelings.
+As I initiated my defence, I realized my opponent was 3 steps ahead of me. He had specific grip that shut my defence on arrival and I tapped out 4 seconds later.  Once he released his grip, I realized that my focus on physical conditioning was misplaced and that I allowed my opponent to dictate the pace. He was thinking faster than me the entire match, and was skilled enough to follow through.
 
----
+In short, I wasn't outgunned. I was outplayed. 
 
-I created this website for three reasons:
-1. to practice writing,
-2. to practice static web development, and 
-3. to explore the difficult questions where I got unsatisfactory answers.
-
-The scope of my curiousity is vast, however the general focus of this blog will be about (but not limited to) photography, martial arts, and the development of the creative process.
-
-If you're interested in my professional work, you can check out <a href="http://www.ahnstage.com/gallery" target="_blank">my portfolio here</a>.
+When I stare at a blank page, camera, or empty timeline, the feeling of that guillotine re-merges. Instead of submitting, I'd like to face this sore spot and provide a public exhibit on how I handle the ever tightening grip of writing, photography, and editing.

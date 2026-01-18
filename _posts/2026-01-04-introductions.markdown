@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  UNDER CONSTRUCTION
-date:   2026-01-04 02:16:37 -0500
-categories: misc
+title:  When to Buy Professional Gear
+date:   2026-01-17 06:59:32 -0500
+categories: photography
 ---
 \[UNDER CONSTRUCTION]
