@@ -24,7 +24,7 @@ email: michael@ahnstage.com
 description: >- # this means to ignore newlines until "baseurl:"
   Musings on lighting, writing, and photography
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://eightbitextended.netlify.app/home" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ahnstage
 youtube_username: begrapple
 twitch_username: ahnstage

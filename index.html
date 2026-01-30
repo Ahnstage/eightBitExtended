@@ -2,8 +2,36 @@
 layout: default
 title: Home
 ---
+
+{%assign blogPosts = site.posts | where: "categories", "blog" %}
+
 <ul class="post-list">
-  {% for post in site.posts %}
+  <h4>Inquiries</h4>
+  {% for post in blogPosts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+{%assign stillsPosts = site.posts | where: "categories", "stills" %}
+
+<ul class="post-list">
+  <h4>Stills</h4>
+  {% for post in stillsPosts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+{%assign videoPosts = site.posts | where: "categories", "video" %}
+
+<ul class="post-list">
+  <h4>Motion</h4>
+  {% for post in videoPosts %}
     <li>
       <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>

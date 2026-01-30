@@ -10,7 +10,7 @@ I was caught in a guillotine choke at the 2017 IBJJF No Gi World Championships. 
 
 Never have I been so wrong, so fast. 
 
-As I initiated my defence, I realized my opponent was 3 steps ahead of me. He had specific grip that shut my defence on arrival and I tapped out 4 seconds later.  Once he released his grip, I realized that my focus on physical conditioning was misplaced and that I allowed my opponent to dictate the pace. He was thinking faster than me the entire match, and was skilled enough to follow through.
+As I initiated my defence, I realized my opponent was 3 steps ahead of me. He had a specific grip that shut my defence on arrival and I tapped out 4 seconds later.  Once he released his grip, I realized that my focus on physical conditioning was misplaced and that I allowed my opponent to dictate the pace. He was thinking faster than me the entire match, and was skilled enough to follow through.
 
 In short, I wasn't outgunned. I was outplayed. 
 

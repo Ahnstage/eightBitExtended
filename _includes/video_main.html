@@ -1,0 +1,10 @@
+<figure class="presentation main">
+  <iframe class="presentation-content" width="640" height="360" src="https://www.youtube-nocookie.com/embed/{{ include.url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>
+    <h3>{{ page.title }}</h3>
+    <h4>{{ page.media }}</h4>
+    {% if page.file_url %}
+    <a target="_blank" href="{{ page.file_url }}">{{ page.file_label }}</a>
+    {% endif %}
+  </figcaption>
+</figure>
