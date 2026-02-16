@@ -6,7 +6,7 @@ title: Home
 {%assign blogPosts = site.posts | where: "categories", "blog" %}
 
 <ul class="post-list">
-  <h4>Inquiries</h4>
+  <h4>Inquiry</h4>
   {% for post in blogPosts %}
     <li>
       <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
