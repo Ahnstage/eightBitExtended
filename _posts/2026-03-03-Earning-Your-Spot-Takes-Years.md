@@ -10,6 +10,7 @@ The invisible barrier is your positioning. Savvy event producers will reserve th
 
 This is where a lot of people go wrong. Having the world's best camera will noticeably raise the floor of your picture quality, but you'll never be in the spot to capture the iconic front page shot.
 
+---
 # Building a Body of Work
 My firsthand experience of this was covering Mark Carney's Liberal Campaign Tour in 2025. Looking through the viewfinder and pressing the shutter was the easiest part of the shoot. The hardest part was earning my spot in the room. 
 
