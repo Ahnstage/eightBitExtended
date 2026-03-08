@@ -166,3 +166,34 @@ img {
   font-size: 0.9rem;
   color: #666;
 }
+
+/* thumbnail formatting */
+.post-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.post-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.post-thumb {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.post-list li a {
+  display: flex;
+  flex-shrink: 0;
+}
+
+.post-list li .post-thumb {
+  display: inline-block;
+  margin: 0;
+}
