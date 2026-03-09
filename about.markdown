@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Michael Ahn, 2025](/assets/images/aboutMePhoto.jpg)
+<img src="/assets/images/aboutMePhoto.jpg" alt="Michael Ahn, 2025" class="about-photo">
 
 I was caught in a guillotine choke at the 2017 IBJJF No Gi World Championships. I remember thinking how routine it would be to get out of this choke as I had done in practice so many times before. I would defend, wait for my opponent to tire, and begin my attack. 
 

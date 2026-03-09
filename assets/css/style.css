@@ -211,3 +211,11 @@ img {
 @media (max-width: 768px) {
   .nav { flex-direction: column; gap: 0.5rem; }
 }
+
+/* Responsive About Me Photo */
+.about-photo {
+  display: block;
+  max-width: 300px;   /* constrain to a sensible size */
+  margin: 0 auto;
+  border-radius: 4px; /* optional, softens the edges */
+}
