@@ -197,3 +197,17 @@ img {
   display: inline-block;
   margin: 0;
 }
+
+/* Mobile Friendly! */
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav { display: flex; gap: 2rem; }
+
+/* This applies only when the screen is 768px or narrower */
+@media (max-width: 768px) {
+  .nav { flex-direction: column; gap: 0.5rem; }
+}
