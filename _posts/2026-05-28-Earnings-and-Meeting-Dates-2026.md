@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Tech 2026 — Earnings Calendar & Shareholder Meetings
-date: 2026-03-03 20:24:00 -0500
+date: 2026-05-28 5:55:00 -0500
 Last Updated: 2026-05-28
 Author: Michael Ahn
 categories: blog
@@ -11,9 +11,6 @@ tags:
   - earnings
   - shareholder-meetings
 ---
-
-# Big Tech 2026 — Earnings Calendar & Shareholder Meetings
-
 A consolidated reference for the fiscal-2026 earnings schedule of eight large-cap technology companies, with annual shareholder meeting dates listed separately. Earnings releases are the primary market catalysts; annual meetings cover governance matters and are documented in their own section below. Dates are current as of May 28, 2026.
 
 **Status key:** `reported` — already released · `confirmed` — scheduled by the company or set in an SEC filing · `estimated` — projected from the company's historical reporting cadence and not yet officially scheduled.
