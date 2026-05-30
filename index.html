@@ -22,20 +22,26 @@ title: Home
   {% endfor %}
 </ul>
 
-
-<!--
-{%assign stillsPosts = site.posts | where: "categories", "stills" %}
+{%assign notesPosts = site.posts | where: "categories", "notes" %}
 
 <ul class="post-list">
-  <h4>Stills</h4>
-  {% for post in stillsPosts %}
+  <h4>Notes</h4>
+  {% for post in notesPosts %}
     <li>
+      {% if post.thumb %}
+        <a href="{{ post.url }}">
+          <img src="{{ post.thumb }}" alt="{{ post.title }}" class="post-thumb">
+        {% else %}
+        <img src="/assets/images/placeholder.png" alt="" class="post-thumb">
+        {% endif %}
+        </a>
       <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
+<!--
 {%assign videoPosts = site.posts | where: "categories", "video" %}
 
 <ul class="post-list">
@@ -47,5 +53,4 @@ title: Home
     </li>
   {% endfor %}
 </ul>
-
 -->
